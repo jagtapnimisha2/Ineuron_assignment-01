@@ -1,0 +1,130 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.navbar-container{
+    margin-left: 50px;
+    margin-top: 30px;
+}
+nav div,li,ul{
+    display: inline;
+}
+.button-group{
+    margin-right: 10px;
+    /* margin-top: 5px; */
+    float: right;
+}
+.search-icon{
+    position: relative;
+    margin-right: 20px;
+    /* bottom: 2px/; */
+    top: 10px;
+
+}
+.nav-button{
+    margin-left: 1px;
+    margin-right: 50px;
+    width: 150px;
+    height: 40px;
+    background-color: #fff;
+    border: 3px solid;
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: 400;
+}
+.list{
+    margin-left: 70px;
+}
+.list-item{
+    margin-left: 50px;
+    font-weight: 400;
+    font-size: 20px;
+    /* text-decoration: underline 2p; */
+}
+.hero-container-right{
+    position: absolute;
+    width: 770px;
+    left: 450px;
+    top: 220px;
+    height: 280px;
+    /* background-color: red; */
+}
+.basim-bhai{
+   position: absolute;
+   top: 140px;
+   left: 50px;
+   
+    
+}
+
+.square{
+    position: relative;
+    top: 140px;
+    left: 60px;
+
+}
+.star{
+    position: absolute;
+    top: 150px;
+    right: 120px;
+
+}
+.globe{
+    position: absolute;
+    top: 110px;
+    left: 620px;
+}
+.star1{
+    position: absolute;
+    top: 280px;
+    left: 0px;
+}
+.hero-heading{
+    font-size: 75px;
+    
+    font-family: Orbiton;
+}
+.hero-description{
+    position: absolute;
+    left: 10px;
+}
+.icons{
+    position: absolute;
+    top: 320px;
+    right: 350px;
+    bottom: 5px;
+}
+
+.button-email{
+    position: absolute;
+    top: 200px;
+    left: 170px;
+    background-color: #fff;
+    height: 30px;
+    width: 200px;
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: 400;
+
+}
+.button-join{
+    position: absolute;
+    top: 200px;
+    left: 390px;
+    background-color: #000;
+    color: #fff;
+    height: 30px;
+    width: 150px;
+    font-family: Poppins;
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: 400;
+}
+.contact-heading{
+    position: absolute;
+    font-size: 20px;
+    font-weight: lighter;
+    left: 280px;
+    top: 280px;
+}
+
